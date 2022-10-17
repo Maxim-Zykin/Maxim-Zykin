@@ -2,7 +2,7 @@
 <h3 align="center">I am a novice iOS developer. I'm currently in training for iOS development.</h3>
 <p><strong>:star: About Me:</strong></p> 
 :standing_man: 27 y.o.<br>
-:iphone: learning Mobile Developer
+:iphone: Mobile Developer (iOS)
 
 
 
