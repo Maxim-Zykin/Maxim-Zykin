@@ -1,6 +1,6 @@
 ### <h1 align="center">Hello, I'm Maxim!</a>  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 <h3 align="center">I am a novice iOS developer. I'm currently in training for iOS development.</h3>
-### :standing_man: About Me :
+<p><strong>:standing_man: About Me</strong></p> 
 
 
 
