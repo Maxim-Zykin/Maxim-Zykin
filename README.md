@@ -1,5 +1,6 @@
-### <h1 align="center">Hi there, I'm Maxim!</a> 
+### <h1 align="center">Hello, I'm Maxim!</a>  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 <h3 align="center">I am a novice iOS developer. I'm currently in training for iOS development.</h3>
+
 
 <!--
 **Maxim-Zykin/Maxim-Zykin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
