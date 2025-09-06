@@ -1,7 +1,7 @@
 ### <h1 align="center">Hello, I'm Maxim!</a>  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 <h3 align="center">I am a novice iOS developer. </h3>
 <p><strong>:star: About Me:</strong></p> 
-:standing_man: 29 y.o.<br>
+:standing_man: 30 y.o.<br>
 :iphone: Mobile Developer (iOS)
 
 
